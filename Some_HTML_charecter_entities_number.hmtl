@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>HTML Character Entities</title>
+</head>
+
+<body>
+
+ <pre> <!--Already we seen about pre tag-->
+    Space(&#160;)
+    Less than(&#60;)
+    Greater than(&#62;)
+    ampersand (&#38;)
+    cent (&#162;)
+    pound (&#163;)
+    yen (&#165;)
+    euro (&#8364;)
+    copyright (&#169;)
+    registered trademark (&#174;)
+    Trademark (&#8482;)
+    Leftwards Arrow (&#8592;)
+    Upwards Arrow(&#8593;)
+    Rightwards Arrow(&#8594;)
+    Downwards Arrow(&#8595;)
+    Black Spads Suit(&#9824;)	
+    Black Club Suit(&#9827;)
+    Black Heart Suit(&#9829;)
+    Black Diamond Suit(&#9830;)
+ </pre>
+
+</body>
+
+</html>

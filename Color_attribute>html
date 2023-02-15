@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Colour Picker</title>
+</head>
+
+<body>
+
+ <!--Default Color is Black-->
+ <input type="color" />
+
+</body>
+
+</html>
